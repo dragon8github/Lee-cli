@@ -1,0 +1,7 @@
+module.exports = class book {
+  
+    name: 贝尔塔猫,
+  
+    coordinates: hahaha,
+  
+}

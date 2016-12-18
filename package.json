@@ -1,0 +1,26 @@
+{
+  "name": "Lee-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "Lee": "Lee.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragon8github/Lee-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragon8github/Lee-cli/issues"
+  },
+  "homepage": "https://github.com/dragon8github/Lee-cli#readme",
+  "dependencies": {
+    "nunjucks": "^3.0.0"
+  }
+}
